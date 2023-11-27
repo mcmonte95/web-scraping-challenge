@@ -1,9 +1,9 @@
-# web-scraping-challenge
+# Web Scraping Challenge
 
 ### Background
 This new assignment consists of two technical products. You will submit the following deliverables:
-    -Deliverable 1: Scrape titles and preview text from Mars news articles.
-    -Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
+- Deliverable 1: Scrape titles and preview text from Mars news articles.
+- Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
 ### Repository Guide:
 This repository contains 3 main components:
